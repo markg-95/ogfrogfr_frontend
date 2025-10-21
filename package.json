@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://markget-95.github.io/ogfrogfr_frontend",
+  "homepage": "https://markg-95.github.io/ogfrogfr_frontend/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
