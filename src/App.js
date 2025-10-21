@@ -1,22 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import BackgroundImage from './components/BackgroundImage';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
+        <BackgroundImage>
+        <h3 style={{ color: '#FFD900', textShadow: '2px 2px 4px #000000' }}>
+          ogfrogfr
+        </h3>
+        <p>coming soon</p>
+
+        </BackgroundImage>
       </header>
     </div>
   );
