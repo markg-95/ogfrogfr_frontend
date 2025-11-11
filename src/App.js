@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import BackgroundImage from './components/BackgroundImage';
+import TestComp from './components/TestComp';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
           ogfrogfr
         </h3>
         <p>coming soon</p>
-
+        <TestComp/>
         </BackgroundImage>
+        <TestComp></TestComp>
       </header>
     </div>
   );
